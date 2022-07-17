@@ -17,4 +17,4 @@ def is_in_order(s):
     return False
 
 s = input("Enter word ")
-print("is_isogram(",s,") ➞",is_in_order(s))
+print("is_in_order(",s,") ➞",is_in_order(s))
